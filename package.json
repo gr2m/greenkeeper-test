@@ -1,0 +1,21 @@
+{
+  "name": "@gr2m/greenkeeper-test",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@gr2m/semantic-release-test": "2.0.0"
+  },
+  "peerDependencies": {
+    "@gr2m/semantic-release-test": "2.0.0"
+  }
+}
