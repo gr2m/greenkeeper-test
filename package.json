@@ -17,5 +17,6 @@
   },
   "peerDependencies": {
     "@gr2m/semantic-release-test": "2.0.0"
-  }
+  },
+  "repository": "github:gr2m/greenkeeper-test"
 }
